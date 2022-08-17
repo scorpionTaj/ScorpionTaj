@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I Think am a Funny and good person**
 
+![image](https://user-images.githubusercontent.com/96800858/185150033-fff318b8-2760-430f-812f-1c40cdf377fb.png)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/moroccantechno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moroccantechno" height="30" width="40" /></a>
