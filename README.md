@@ -19,7 +19,9 @@
 
 - ⚡ Fun fact **I Think am a Funny and good person**
 
-![image](https://user-images.githubusercontent.com/96800858/185150033-fff318b8-2760-430f-812f-1c40cdf377fb.png)
+
+![156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f](https://user-images.githubusercontent.com/96800858/185150254-42467d0c-f59e-43ff-9133-08f2514955e3.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,4 +45,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scorpiontaj&show_icons=true&locale=en" alt="scorpiontaj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scorpiontaj&" alt="scorpiontaj" /></p>
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/96800858/185150546-e93bd859-c43b-4408-b745-4eeca0de9c3f.svg)
+
 
