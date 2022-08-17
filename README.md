@@ -40,11 +40,11 @@
 <p><a href="https://www.buymeacoffee.com/ScorpionTaj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ScorpionTaj" /></a></p><br><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scorpiontaj&show_icons=true&locale=en&layout=compact" alt="scorpiontaj" /></p>
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=scorpiontaj&show_icons=true&locale=en" alt="scorpiontaj" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=scorpiontaj&" alt="scorpiontaj" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scorpiontaj&show_icons=true&locale=en&layout=compact" alt="scorpiontaj" /></p>
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/96800858/185150546-e93bd859-c43b-4408-b745-4eeca0de9c3f.svg)
 
