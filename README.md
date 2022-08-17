@@ -41,8 +41,9 @@
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=scorpiontaj&show_icons=true&locale=en" alt="scorpiontaj" /></p>
-<p>&nbsp;<img align="left" src="[https://github-readme-stats.vercel.app/api?username=scorpiontaj&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api/top-langs?username=scorpiontaj&show_icons=true&locale=en&layout=compact)" alt="scorpiontaj" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scorpiontaj&show_icons=true&locale=en&layout=compact" alt="scorpiontaj" /></p>
 
 ## 🏆 GitHub Profile Trophies
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scorpiontaj" alt="scorpiontaj" /></a> </p>
+
