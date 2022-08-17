@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scorpiontaj&label=Profile%20views&color=0e75b6&style=flat" alt="scorpiontaj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scorpiontaj" alt="scorpiontaj" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack , Laravel**
 
 - 👨‍💻 All of my projects are available at [tajeddine-portfolio.netlify.app](tajeddine-portfolio.netlify.app)
@@ -42,3 +40,4 @@
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/96800858/185150546-e93bd859-c43b-4408-b745-4eeca0de9c3f.svg)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scorpiontaj" alt="scorpiontaj" /></a> </p>
