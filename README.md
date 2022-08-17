@@ -8,7 +8,11 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
-# ✅ [My Website Protfolio] (https://tajeddine-portfolio.netlify.app)
+# ✅ [My Website Protfolio](https://tajeddine-portfolio.netlify.app)
+
+# 👍 [To Do App](https://github.com/scorpionTaj/Small_ToDoApp)
+
+# ▷ [Youtube Search App](https://github.com/scorpionTaj/Youtube-search)
 
 ## 📩 Connect with me
 <p align="left">
