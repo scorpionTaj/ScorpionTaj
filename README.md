@@ -10,7 +10,7 @@
 
 # ✅ [My Website Protfolio](https://tajeddine-portfolio.netlify.app)
 
-# 👍 [Weather React App](https://github.com/scorpionTaj/Weather-React-App)
+# ☀️ [Weather React App](https://github.com/scorpionTaj/Weather-React-App)
 
 # ▷ [Youtube Search App](https://github.com/scorpionTaj/Youtube-search)
 
