@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React / SASS / C#**
 
-- 📫 How to reach me **bourhimtajedidne@gmail.com**
+- 📫 How to reach me **bourhimtajeddine@gmail.com**
 
 - ⚡ Fun fact **I Think I'm Cool and Funny**
 
