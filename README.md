@@ -217,3 +217,6 @@ I'm<strong> Tajeddine Bourhim</strong>, a Computer Science Student specialized i
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### Github Contribution Snake <img height="30" width="30" src="https://img.icons8.com/?size=30&id=87064&format=png&color=ffffff"/>
+<img src="github-contribution-grid-snake.svg"/>
