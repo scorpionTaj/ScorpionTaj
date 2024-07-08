@@ -136,7 +136,7 @@ I'm<strong> Tajeddine Bourhim</strong>, a Computer Science Student specialized i
     <img height="40" width="auto" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_eaf51648036e4bebab425f4366019f75/apache-pig.png"/>
     <img width="70" height="40" src="https://miro.medium.com/v2/resize:fit:603/0*IMPTG6_iKbQVPVA5.png"/>
     <img width="40" height="40" src="https://flink.apache.org/img/logo/png/1000/flink_squirrel_1000.png"/>
-    <img height="40" width="40" src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/TALL%20-%20White%20on%20Transparent.png">
+    <img height="40" width="40" src="https://logowik.com/content/uploads/images/kafka8040.jpg">
  
   **Database Management**  
     <img height="40" width="40" src="https://kinsta.com/wp-content/uploads/2019/04/mysql-logo-1.svg">
