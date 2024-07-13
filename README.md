@@ -207,7 +207,7 @@ I'm<strong> Tajeddine Bourhim</strong>, a Computer Science Student specialized i
 
   
   **Version Control** <img width="20" height="20" src="https://cdn.icon-icons.com/icons2/1738/PNG/512/iconfinder-technologymachineelectronicdevice25-4026435_113356.png"/>
-  
+  <br/>
   <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
   <img width="40" height="40" src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" alt="github"/>
 
