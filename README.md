@@ -40,7 +40,7 @@ I'm<strong> Tajeddine Bourhim</strong>, a Computer Science Student specialized i
 {
   "name": "Tajeddine Bourhim",
   "age": 20,
-  "studies": "Big Data & Cloud Computing",
+  "studies": "Data Science & Artificial Intelligence",
   "profile": "Data Enthusiast",
   "interests": ["Problem Solving","Gym","Strategic Game","Design"]
   "speak": ["English","Arabic","French"]
@@ -48,7 +48,7 @@ I'm<strong> Tajeddine Bourhim</strong>, a Computer Science Student specialized i
     "email": "bourhimtajeddine@gmail.com",
     "linkedIn": "https://www.linkedin.com/in/tajeddine-bourhim/",
     "GitHub": "https://github.com/scorpionTaj/",
-    "portfolio": "https://tajeddine-portfolio.netlify.app/"
+    "portfolio": "https://datawithtaj.netlify.app/"
   }
 }
 ```
