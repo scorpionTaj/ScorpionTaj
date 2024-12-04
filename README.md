@@ -21,7 +21,7 @@
 <img align="right" height="250" width="400" alt="GIF" src="GIF/code.gif"/>
 <h3 align="center">Data Scientist & AI | Big Data | Cloud Computing</h3>
   
-I'm<strong> Tajeddine Bourhim</strong>, a Computer Science Student specialized in Big Data and Cloud Computing at <a href="http://estfbs.usms.ac.ma/">EST Fquih Ben Saleh</a>, with significant experience as a Data Scientist and Artificial Intelligence Engineer🔭<br>
+I'm<strong> Tajeddine Bourhim</strong>, a Computer Science Student specialized in Data Science and Artificial Intelligence at <a href="https://www.fs-umi.ac.ma/">FS meknes</a>, with significant experience as a Data Scientist and Artificial Intelligence Engineer🔭<br>
   
   👯 I’m looking to collaborate on: Open-source AI projects, machine learning competitions, and cloud-based big data analytics solutions.<br>
   💬 Ask me about: Data science methodologies, AI in healthcare, cloud computing strategies, and big data technologies
