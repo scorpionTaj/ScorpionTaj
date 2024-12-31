@@ -94,8 +94,6 @@ I'm<strong> Tajeddine Bourhim</strong>, a Master Student specialized in Data Sci
     <img height="40" width="40" src="https://naveedashfaq.me/img/csharp.png">
     <img height="40" width="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
     <img height="40" width="40" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
-    <img height="40" width="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png">
     <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 
   **Data Science** <img width="20" height="20" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5.png" alt="external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5"/>  
