@@ -39,7 +39,7 @@ I'm<strong> Tajeddine Bourhim</strong>, a Computer Science Student specialized i
 ```json
 {
   "name": "Tajeddine Bourhim",
-  "age": 20,
+  "age": 21,
   "studies": "Data Science & Artificial Intelligence",
   "profile": "Data Enthusiast",
   "interests": ["Problem Solving","Gym","Strategic Game","Design"]
