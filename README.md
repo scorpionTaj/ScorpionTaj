@@ -150,21 +150,7 @@ I'm<strong> Tajeddine Bourhim</strong>, a Master Student specialized in Data Sci
     <img height="40" width="40" src="https://img.icons8.com/office/40/express-js.png" alt="express-js"/>
     <img height="40" width="40" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4">
     <img height="40" width="40" src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=ffffff"/>
-    
-    
-  **Configurations File**  
-    <img height="40" width="40" src="https://www.ggctools.com/assets/image/img/xml1.png">
-    <img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7txdzZCunNyBxeH4yjMw0zqagAKY-wtMhg&s">
-    <img height="40" width="40" src="https://img.icons8.com/?size=100&id=78107&format=png&color=ffffff">
-  
-  **Mobile Development**  
-    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
-    <img height="40" width="40" src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000">
-
-  **Desktop Development**  
-    <img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQyzHp_LSq0RqZRQpf0bgMDlkvKRf-nP2MuQ&s">
-    <img height="40" width="40" src="https://img.icons8.com/?size=100&id=BYBN5RWlf42c&format=png&color=ffffff">
-
+      
   **Project Management**  
     <img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-trello-a-web-based-list-making-application-for-multi-platform-logo-shadow-tal-revivo.png" alt="external-trello-a-web-based-list-making-application-for-multi-platform-logo-shadow-tal-revivo"/>
     <img height="40" width="40" src="https://img.icons8.com/color-glass/48/microsoft-teams.png" alt="microsoft-teams"/>
