@@ -89,9 +89,6 @@ I'm<strong> Tajeddine Bourhim</strong>, a Master Student specialized in Data Sci
 
     
   **Programming Language**  
-    <img height="40" width="40" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png">
-    <img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png">
-    <img height="40" width="40" src="https://naveedashfaq.me/img/csharp.png">
     <img height="40" width="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
     <img height="40" width="40" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
     <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
@@ -110,17 +107,10 @@ I'm<strong> Tajeddine Bourhim</strong>, a Master Student specialized in Data Sci
   <kbd>Linear and logistic regressions</kbd> <kbd>Decision Trees</kbd> <kbd>Random Forests</kbd> <kbd>Neural Networks</kbd> <kbd>K-Nearest Neighbors (KNN)</kbd> <kbd>Support Vector Machines (SVM)</kbd>  
   *Unsupervised :*
   <kbd>K-means Clustering</kbd> <kbd>Principal Component Analysis (PCA)</kbd> <kbd>Hierarchical Clustering</kbd>
-  
-  **Modeling** <img width="20" height="20" src="https://img.icons8.com/stickers/100/static-view-level2.png" alt="static-view-level2"/>  
-  <kbd>Merise</kbd> <kbd>UML</kbd> <kbd>Figma</kbd>
 
   **DevOps – MLOps**  
     <img height="40" width="40" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
     <img height="40" width="40" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
-  
-  **API Testing**  
-    <img height="40" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
-    <img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"/>
   
   **Cloud Computing**  
     <img height="40" width="40" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="ibm"/>
